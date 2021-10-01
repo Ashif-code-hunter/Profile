@@ -232,7 +232,7 @@ class _HomeState extends State<Home> {
                             children: <Widget>[
                               Iconsgenerate(
                                 imagePath: "images/icon2.png",
-                                width: 50,
+                                width: 40,
                                 label: "Lorem",
                                 path: () {},
                               ),
@@ -243,7 +243,7 @@ class _HomeState extends State<Home> {
                           ),
                           Iconsgenerate(
                             imagePath: "images/icon3.png",
-                            width: 50,
+                            width: 40,
                             label: "Lorem",
                             path: () {},
                           ),
@@ -264,7 +264,7 @@ class _HomeState extends State<Home> {
               ),
               Center(
                 child: Iconsgenerate(
-                  width: 80,
+                  width: 60,
                   label: "Lorem",
                   path: () {},
                   imagePath: "images/icon1.png",
